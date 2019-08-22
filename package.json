@@ -29,9 +29,9 @@
     "name": "Joel Arvidsson",
     "email": "joel@oblador.se"
   },
-  "homepage": "https://github.com/oblador/react-native-progress",
+  "homepage": "https://github.com/nyby/react-native-progress",
   "bugs": {
-    "url": "https://github.com/oblador/react-native-progress/issues"
+    "url": "https://github.com/nyby/react-native-progress/issues"
   },
   "repository": {
     "type": "git",
